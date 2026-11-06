@@ -6,4 +6,6 @@ GitHub came to mind, so I decided to upload them here and make them public too.
 Might find a way to sync it with my phone somehow.
 Maybe a custom script? idk
 
-Todo: rename the files to be more friendly
+## Todo
+- [ ] rename the files to be more friendly
+- [ ] make a website for browsing them
